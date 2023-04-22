@@ -1,3 +1,5 @@
+#Recebe um número inteiro positivo e imprima os n primeiros números ímpares naturais.
+
 n = int(input("Digite o valor de n"))
 num = 1
 while n !=0:
