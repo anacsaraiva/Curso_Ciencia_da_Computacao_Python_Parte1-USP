@@ -1,3 +1,5 @@
+# Recebe como parâmetro um número inteiro positivo n e devolva a soma de todos os inteiros entre 1 e n que são comprimento da hipotenusa de algum triângulo retângulo com catetos inteiros.
+
 def é_hipotenusa(a, b):
     return ((a*a) + (b*b))
 
