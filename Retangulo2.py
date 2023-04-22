@@ -1,3 +1,5 @@
+# Refaça o ex Retangulo 1 imprimindo os retângulos sem preenchimento, de forma que os caracteres que não estiverem na borda do retângulo sejam espaçoes.
+
 largura = int(input("Digite a largura: "))
 altura = int(input("Digite a altura: "))
 i = 1
