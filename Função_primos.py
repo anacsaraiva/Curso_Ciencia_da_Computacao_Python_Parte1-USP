@@ -1,3 +1,5 @@
+#Recebe um número inteiro maior ou iguall a 2 como parâmetro e devolve o maior número primo menos ou igual ao número passado à função.
+
 def éPrimo(n):
 
     Primo = 1
