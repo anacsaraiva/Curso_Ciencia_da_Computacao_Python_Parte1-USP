@@ -1,3 +1,5 @@
+#Recebe um número inteiro, calcula e imprime a soma dos dígitos deste número.
+
 n = int(input("Digite um número inteiro"))
 div =0
 soma =0
