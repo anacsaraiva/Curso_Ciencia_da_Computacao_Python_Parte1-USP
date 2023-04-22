@@ -1,3 +1,5 @@
+#Recebe um número inteiro e verifica se o número recebido possui ao menos um dígito com um dígito adjacente igual a ele.
+
 n = int(input("Digite um número inteiro"))
 
 anterior = n%10
