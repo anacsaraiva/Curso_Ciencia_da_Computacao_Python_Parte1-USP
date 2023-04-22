@@ -1,3 +1,5 @@
+#Função que recebe uma lista com números inteiros, verifica se tal lista possui elementos repetidos e os remove.
+
 def remove_repetidos(lista):
 
     lista2 = []
