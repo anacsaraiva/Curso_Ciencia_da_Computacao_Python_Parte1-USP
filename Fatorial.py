@@ -1,3 +1,5 @@
+#Recebe um número natural e imprime o fatorial deste número.
+
 n = int(input("Digite o valor de n"))
 fatorial=1
 
