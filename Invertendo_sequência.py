@@ -14,6 +14,3 @@ tam = len(lista)-1
 for i in lista:
     print(lista[tam])
     tam -= 1
-    
-
-        
