@@ -1,3 +1,5 @@
+#Recebe um número intero positivo e verifica se é primo.
+
 n = int(input("Digite um número inteiro positivo"))
 i=1
 primo=True
